@@ -1,2 +1,2 @@
-nama = "Imam"
-print("Halo",nama)
+nama = input("imam surya harahap")
+print("halo",nama)
